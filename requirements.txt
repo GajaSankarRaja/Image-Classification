@@ -1,0 +1,7 @@
+Img2Vec
+torch
+opencv
+python
+Pillow
+os
+numpy 
